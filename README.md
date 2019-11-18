@@ -1,3 +1,6 @@
+# Goal
+With this site, users will be able to post fan messages for 21 Savage. They can also do a few other functionalities including upvoting and downvoting messages.
+
 ![21 Savage](public/21savage.jpg)
 
 ## Installation
